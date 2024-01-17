@@ -7,9 +7,6 @@
 - 👯 I'm eager to collaborate on exciting Web Development projects.
 - 📫 You can reach me at [priyankatamhankar120@gmail.com](mailto:priyankatamhankar120@gmail.com).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankatamhankar01&label=Profile%20views&color=0e75b6&style=flat" alt="priyankatamhankar01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankatamhankar01" alt="priyankatamhankar01" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
