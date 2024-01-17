@@ -1,7 +1,7 @@
 <h1 align="center"> Hey,  I'm Priyanka Tamhankar</h1>
 
 <p align="left"> </p>
-# 💫 About Me :<br>
+ 💫 About Me :<br>
 - 😄 Pronouns: She/Her<br>- 🌱 I’m currently learning more about Web Development.<br>- 👯 I’m looking  forward to work on Web Development projects.<br>- 📫 How to reach me:  priyankatamhankar120@gmail.com .
 
 
